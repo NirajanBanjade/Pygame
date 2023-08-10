@@ -2,7 +2,7 @@ import pygame
 import random
 import math
 from pygame import mixer
-
+#mixer for audio sounds
 pygame.init()    #initialization of pygame to use 
 
 #creation of screen and size initialization
